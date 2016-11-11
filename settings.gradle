@@ -1,1 +1,1 @@
-include ':usocamara'
+include ':usocamara', ':mylibrary'
